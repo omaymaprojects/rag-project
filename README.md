@@ -19,10 +19,15 @@ The RAG Project is an implementation of the Retrieval-Augmented Generation appro
 ## Directory Structure
 
 ├── .render.yaml # Render deployment configuration
+
 ├── app.py # Main application script
+
 ├── rag.py # RAG model implementation
+
 ├── requirements.txt # Python dependencies
+
 ├── runtime.txt # Python runtime version
+
 ├── venv/ # Python virtual environment directory
 
 - **app.py**: The main script to run the application, which sets up the API or command-line interface.
